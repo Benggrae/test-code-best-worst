@@ -1,4 +1,4 @@
-![image-20220720023711351](/Users/kimbyounghee/Library/Application Support/typora-user-images/image-20220720023711351.png)
+![img.png](img.png)
 
 첫 글이 테스트 코드라니 어려운 주제이다.
 
